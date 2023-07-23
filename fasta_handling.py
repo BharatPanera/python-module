@@ -5,6 +5,7 @@ Date: 23-07-2023
 ----------Dependencies----------
 1. python3
 2. logging
+3. requests
 
 --------------Usage-------------
 python3 script.py
