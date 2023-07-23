@@ -8,7 +8,7 @@ Date: 23-07-2023
 3. requests
 
 --------------Usage-------------
-python3 script.py
+python3 fasta_handling.py
 '''
 import requests
 from random import shuffle, choice, random
